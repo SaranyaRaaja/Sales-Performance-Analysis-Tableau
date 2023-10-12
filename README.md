@@ -29,9 +29,6 @@ END
  
 Tableau Public Link:
 
-Worksheet:
-https://public.tableau.com/profile/saranya7758#!/vizhome/SalesPerformanceVsTarget_16188861518540/SalesPerformanceWithTarget
-
 Dashboard:
 https://public.tableau.com/profile/saranya7758#!/vizhome/SalesPerformanceVsTarget_16188861518540/SalesPerformanceVsTargetDashboard
 
